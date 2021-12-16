@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url(cool-background.jpg);
+}
+.content iframe{
+    background-image: url(cool-background.jpg);
+    font-size: 40x;
+    text-align: center;
+
+}
+.content h1{
+    text-align: center;
+    text-decoration:(red);
+    top: 20%;
+}
+.content p{
+    margin: 20px auto;
+    font-size: 30px;
+    font-family:Readex Pro;
+}
+button{
+    width: 200px;
+    padding: 15px 0;
+    border-radius: 35px;
+    margin:20px;
+    text-align:center;
+    color: black;
+    background-color:rgb(58, 73, 141);
+    font-size: 17px;}

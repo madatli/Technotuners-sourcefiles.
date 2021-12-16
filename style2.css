@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Readex Pro;
+}
+.content h1{
+    height: 10vh;
+    width: 100%;
+   text-align: center;
+   text-decoration-color:red;
+   border: black;
+   border-radius: 30%;
+}
+.content p{
+    height: 30vh;
+    width: 100%;
+    font-size: large;
+    background-image: url(cool-background.jpg);
+font-family: Readex Pro;
+}
+.content img {
+    position: absolute;
+    image-rendering: auto;
+    
+}
